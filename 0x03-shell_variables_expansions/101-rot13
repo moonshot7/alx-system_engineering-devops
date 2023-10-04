@@ -1,2 +1,2 @@
 #!/bin/bash
-tr ge N-Mn-m A-MN-ZA-mn-z
+tr A-Za-z N-ZA-MN-za-m
